@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body{
+    background-color: #dad2db;
+    width: 100vw;
+    font-family: "Montserrat", sans-serif;
+}
+.ql-container{
+    border:none !important
+}
+.ql-toolbar{
+    border:none !important
+}
+.ql-editor{
+    border:none !important
+}
